@@ -11,11 +11,7 @@
 
 <div align="right">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wodeyuzhou/competition/light">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wodeyuzhou/dataset/light">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wodeyuzhou/discussion/light">
 </div>
 
-  <a></a>
-  ---
 - 국립한밭대학교 [EffAI Lab](https://effailab.hanbat.ac.kr) 학부연구생 <sub>(2023.08 ~ )</sub>
   ><sub>Time-series Anomaly detection</sub>
