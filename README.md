@@ -16,6 +16,6 @@
 
 <div align="right">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wodeyuzhou/competition/light">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wodeyuzhou/notebooks/light">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wodeyuzhou/notebook/light">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wodeyuzhou/discussion/light">
 </div>
