@@ -1,5 +1,4 @@
-# 안녕하세요, 저는 Janghwan Kim입니다. 👋
-
+# Janghwan Kim
 ## 🏃‍♂️ 현재 진행 활동
 - EffAI Lab 학부연구생
 - Swift 공부 중
