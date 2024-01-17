@@ -1,8 +1,12 @@
-## 🏃‍♂️ 현재 진행 활동
-- EffAI Lab 학부연구생
-- Swift 공부 중
+<div align="center">
+  
+  ### Janghwan Kim
+    
+  <a></a> 
+  ---
 
-## 💻 Baekjoon Online Judge
-<!-- 여기에 자신의 백준 온라인 저지 티어를 삽입하세요. -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodeyuzhou)](https://solved.ac/wodeyuzhou/) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=wodeyuzhou&theme=dark)
+</div>
+
+<a href="https://solved.ac/wodeyuzhou"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wodeyuzhou&theme=dark"/></a>
+
+- 국립한밭대학교 [EffAI Lab](https://effailab.hanbat.ac.kr) <sub>(2023.08 ~ )</sub>
