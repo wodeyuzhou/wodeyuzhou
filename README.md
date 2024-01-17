@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Janghwan Kim <sub>(wodeyuzhou 我的宇宙)</sub>
+  ### Janghwan Kim
     
   <a></a> 
   ---
