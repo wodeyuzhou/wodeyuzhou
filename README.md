@@ -1,12 +1,9 @@
-### Janghwan Kim
+# 안녕하세요, 저는 Janghwan Kim입니다. 👋
 
-<!--
-**wodeyuzhou/wodeyuzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏃‍♂️ 현재 진행 활동
+- EffAI Lab 학부연구생
+- Swift 공부 중
 
-Here are some ideas to get you started:
-
-
--->
 ## 💻 Baekjoon Online Judge
 <!-- 여기에 자신의 백준 온라인 저지 티어를 삽입하세요. -->
 [![Solved.ac
