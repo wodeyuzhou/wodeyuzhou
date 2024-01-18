@@ -3,8 +3,8 @@
 
   ### 김장환 (Janghwan Kim)
 
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@wodeyuzhou)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wodeyuzhou)](https://solved.ac/wodeyuzhou)
-
   <a></a> 
   ---
   
