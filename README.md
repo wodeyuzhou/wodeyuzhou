@@ -1,11 +1,8 @@
-<div align="center">
-  
-  ### 김장환 (Janghwan Kim)
-    
-  <a></a> 
-  ---
 
-</div>
+### 김장환 (Janghwan Kim)
+    
+<a></a> 
+---
 
 <!--
 ![스크린샷 2024-01-18 15 41 59](https://github.com/wodeyuzhou/wodeyuzhou/assets/104478598/dfc15c5d-75da-4c0e-a8f8-2af7d771797d)
