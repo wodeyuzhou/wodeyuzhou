@@ -12,6 +12,6 @@
 <img align="right" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wodeyuzhou/discussion">
 <img align="right" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wodeyuzhou/competition">
 
-- 국립한밭대학교 [EffAI Lab](https://effailab.hanbat.ac.kr) 학부연구생 <sub>(2023.08 ~ 현재)</sub> 
+- 국립한밭대학교 [EffAI Lab](https://github.com/EffAI-Lab) 학부연구생 <sub>(2023.08 ~ 현재)</sub> 
     >Time-series Anomaly detection
 - 국립공주대학교 정보보호영재교육원 기초/심화과정 <sub>(2014 ~ 2015)</sub>
