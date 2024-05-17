@@ -7,8 +7,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wodeyuzhou)](https://solved.ac/wodeyuzhou)
 !-->
 
-  <a></a> 
-  ---
+<a></a> 
+---
 
 </div>
 <img align="right">
@@ -21,3 +21,10 @@
 
 - 국립한밭대학교 [EffAI Lab](https://github.com/EffAI-Lab) 학부연구생 <sub>(2023.08 ~ 현재)</sub>
 - 국립공주대학교 정보보호영재교육원 기초/심화과정 <sub>(2014 ~ 2015)</sub>
+
+
+<a></a>
+---
+- **Kaggle** / [HMS - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification) : Top 30%
+
+
